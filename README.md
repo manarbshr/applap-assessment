@@ -21,7 +21,7 @@ A Flask-based chatbot that answers questions from multiple PDF documents using G
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/chatbot-app.git
+   git clone https://github.com/manarbshr/applap-assessment.git
    cd chatbot-app
 
 
