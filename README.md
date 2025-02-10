@@ -2,6 +2,9 @@
 
 A Flask-based chatbot that answers questions from multiple PDF documents using Google's Gemini and Retrieval-Augmented Generation (RAG).
 
+## Demo Link
+https://drive.google.com/file/d/1oQfWv0dEBDsN5dD9PSPHsHJ1lrSvznd6/view?usp=drive_link
+
 
 ## Features
 - Upload multiple PDF documents.
