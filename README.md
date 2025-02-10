@@ -23,39 +23,6 @@ A Flask-based chatbot that answers questions from multiple PDF documents using G
    ```bash
    git clone https://github.com/manarbshr/applap-assessment.git
    cd chatbot-app
-
-
-
-
-
-
-
-
-# PDF Chatbot with Gemini and RAG
-
-A Flask-based chatbot that answers questions from multiple PDF documents using Google's Gemini and Retrieval-Augmented Generation (RAG).
-
-
-## Features
-- Upload multiple PDF documents.
-- Chat with the bot using natural language.
-- Context-aware responses powered by Gemini and RAG.
-- Docker support for easy deployment.
-- MVC architecture with clear separation of concerns.
-- Environment variable configuration.
-
-## Installation
-
-### Prerequisites
-- Python 3.9+
-- [Poetry](https://python-poetry.org/) (recommended)
-- Docker (optional)
-
-### Steps
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/chatbot-app.git
-   cd chatbot-app
    ```
 
 2. Install dependencies with Poetry:
