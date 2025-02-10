@@ -1,0 +1,7 @@
+flask
+flask-cors
+pymupdf
+langchain-google-genai
+langchain
+langchain-community
+python-dotenv
