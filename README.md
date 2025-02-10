@@ -90,19 +90,8 @@ chatbot-app/
 │   ├── view/             # HTML/CSS/JS templates and static files
 │   └── __init__.py       # Flask app initialization
 ├── Dockerfile
-├── pyproject.toml
 ├── README.md
 └── requirements.txt
 ```
 
-## License
-MIT License. See [LICENSE](LICENSE) for details.
-```
-
----
-
-### Key Notes:
-1. Replace `yourusername` and `your_gemini_api_key` with your actual values.
-2. Add a screenshot to the `/static/images` folder if available.
-3. Customize the license file as needed.
 
